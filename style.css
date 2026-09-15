@@ -5,3 +5,17 @@ body {
 h1, h2, h3 {
     font-family: "Cormorant Garamond", serif;
 }
+:root {
+    --forest: #17251C;
+    --moss: #3F5142;
+    --ivory: #F5F2EA;
+    --bamboo: #B58A55;
+    --charcoal: #1D211E;
+    --white: #FFFFFF;
+    body {
+    margin: 0;
+    background: var(--ivory);
+    color: var(--charcoal);
+    font-family: "Manrope", sans-serif;
+}
+}
